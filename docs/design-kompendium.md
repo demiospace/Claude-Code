@@ -142,12 +142,13 @@ Diese Fakten kann nur der Auftraggeber liefern – im Mockup als `PLATZHALTER` m
 
 ## 6. Nächste Schritte
 
-1. **Startseite als statische Webseite umsetzen** (HTML/CSS/JS wie die Live-Seite,
+1. **Landingpages** (Blaupausen liegen vor: [`landingpages/`](landingpages/) —
+   Funnel-Architektur mit Value Ladder + Skelette für 3 Branchen-LPs, Community-LP und
+   Newsletter-Kurs-Opt-in; Subdomain-Architektur, ursprüngliche Website-Struktur bleibt
+   unter `site/` erhalten)
+2. **Startseite als statische Webseite umsetzen** (HTML/CSS/JS wie die Live-Seite,
    selbst gehostete Fonts) — auf Basis des freigegebenen v3-Entwurfs
-2. **Klartag- und Academy-Unterseiten** im neuen System
-3. **Branchen-Landingpage-Template** (ein Baukasten, vier Domains): Hero mit Branchen-Pain,
-   3 Pain-Karten in Branchensprache, passender Helfer im Fokus, Mini-Fallbeispiel mit Zahl,
-   identischer Klartag-CTA, Rückverweis auf die Hauptseite
+3. **Klartag- und Academy-Unterseiten** im neuen System
 
 ## Artefakte
 
